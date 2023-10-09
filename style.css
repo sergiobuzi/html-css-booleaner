@@ -1,0 +1,51 @@
+/* header*/
+
+/*sfondo*/
+
+#sfondo{
+    background-image:url(img/pattern.png) ;
+    background-color:rgb(85, 147, 228);
+    background-position:top;
+    padding-top: 50px;
+    height: 80px;
+    background-size: 500px;
+}
+
+#the_booleaner{
+    height: 50px;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+/*titolo*/
+
+#titolo{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+#scritto_data{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#azzurro{
+    color: rgb(85, 147, 228);
+    font-weight: bolder;
+}
+
+.grigio{
+    color: gray;
+    margin-top: 0;
+}
+
+/*diritti*/
+
+#diritti{
+    margin-top: 0;
+    margin-bottom: 0;
+}
