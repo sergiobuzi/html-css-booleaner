@@ -79,3 +79,28 @@ main{
 .celeste{
     background-color: rgb(158, 214, 236);
 }
+
+/*footer*/
+
+#scritta_piedi{
+    color: grey;
+}
+
+.piedi_background1{
+    background-image: url(img/monitor.jpg);
+    height: 150px;
+    width: 250px;
+    background-position: center;
+}
+
+.piedi_scritta{
+    color: white;
+    margin: 10px;
+}
+
+.piedi_background2{
+    background-image: url(img/graph.jpg);
+    height: 150px;
+    width: 250px;
+    background-position: center;
+}
