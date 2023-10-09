@@ -48,4 +48,34 @@
 #diritti{
     margin-top: 0;
     margin-bottom: 0;
+    font-size: 12px;
+}
+
+/*main*/
+
+/*corpo della pagina*/
+
+main{
+    font-size: large;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+/*tabella*/
+
+#tabella_head{
+    background-color:rgb(85, 147, 228);
+    color: white;
+    margin: 0;
+}
+
+.contenuto_head{
+    text-align: left;
+    padding-right: 150px;
+}
+
+.celeste{
+    background-color: rgb(158, 214, 236);
 }
