@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+}
+#contenitore{
+    margin: 100px;
+}
+/* header*/
+
+/*sfondo*/
+
+#sfondo{
+    background-image:url(../img/pattern.png) ;
+    background-color:rgb(85, 147, 228);
+    background-position:top;
+    padding-top: 50px;
+    height: 80px;
+    background-size: 500px;
+}
+
+#the_booleaner{
+    height: 50px;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+/*titolo*/
+
+#titolo{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+#scritto_data{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#azzurro{
+    color: rgb(85, 147, 228);
+    font-weight: bolder;
+}
+
+.grigio{
+    color: gray;
+    margin-top: 0;
+}
+
+/*diritti*/
+
+#diritti{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+}
+
+/*main*/
+
+/*corpo della pagina*/
+
+main{
+    font-size: large;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+/*tabella*/
+table{
+    border-collapse: collapse;
+}
+
+#tabella_head{
+    background-color:rgb(85, 147, 228);
+    color: white;
+    margin: 0;
+}
+
+.contenuto_head{
+    text-align: left;
+}
+
+.stretta{
+    width: 25%;
+}
+
+td,th{
+    padding: 10px;
+}
+
+.celeste{
+    background-color: rgb(158, 214, 236);
+}
+
+/*footer*/
+
+#scritta_piedi{
+    color: grey;
+    font-size: 15px;
+}
+
+.piedi_background1{
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    width: 250px;
+    background-position: center;
+}
+
+.piedi_scritta{
+    color: white;
+    padding: 15px;
+    font-size: large;
+}
+
+.piedi_background2{
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    width: 250px;
+    background-position:top, left;
+}
